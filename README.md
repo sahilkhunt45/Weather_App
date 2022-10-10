@@ -1,16 +1,14 @@
-# singletonclass
+# Weather App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/194889236-346b39e5-4db0-449c-9039-774f3c946480.jpg" height=500 width=250>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/194889252-0217d886-9f0b-4a3a-aa77-aac0d58d53bf.gif" height=500 width=250>
+</p>
